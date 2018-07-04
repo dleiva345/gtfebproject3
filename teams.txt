@@ -109,15 +109,6 @@ https://git.heroku.com/yougoal.git
 
 -------------------------
 
-Aarick Farist, Allen Williams Jr, Hristo L Nikolov
-The Shape of Music
-This project aims to create a social media experience unlike any other. Using a graphic user interface, users will be able to create a custom sound form and arrange it in a series of selected notes, Then, an interactive canvas element will generate shapes that will play through the selected notes in a semi-randomized fashion via collision detection.
-Users can then share these creations with people they follow.
-https://github.com/Aarick-F/final-project
-https://theshapeofmusic.herokuapp.com/
-
--------------------------
-
 Bianca Williams, Christie Harwell, Mamie Smith
 Well Wishes
 Donation-based medical care package service for an at-risk or terminally ill person in developing countries. A Community Representative will login to the site and submit a request for a recipient's ongoing medical need.
@@ -186,5 +177,12 @@ Mood Refresher
 Mood Refresher is a web application that suggests user choices to refresh their mood based on their given location and few selections.
 https://github.com/purvam98/Mood-Refresher
 https://mood-refresher.herokuapp.com/
+
+-------------------------
+
+Jin Kim, Marika Manuud, Debbie Leiva
+LetLoveGrow is an application that strengthen relationships between couples by utilazing features like to-do-list to keep track on share activities, reminds couples on special dates and future dates to come. The app also utilizes a album and a wallet feature.  
+https://dleiva345.github.io/Final-project/
+https://letlovegrow.herokuapp.com/
 
 -------------------------
